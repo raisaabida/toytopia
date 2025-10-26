@@ -1,16 +1,42 @@
-# React + Vite
+# 🧸 ToyTopia
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📘 Project Purpose
+ToyTopia is a playful toy marketplace where users can browse, explore, and view toy details from different categories such as building blocks, soft toys, puzzles, and more.  
+The project demonstrates core React concepts, including routing, components, hooks, and dynamic data rendering.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live URL
+🔗 [https://toytopia.surge.sh](https://toytopia.surge.sh)
 
-## React Compiler
+*(Replace with your actual Surge deployment link)*
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Key Features
+- 🧩 Dynamic toy cards loaded from a JSON file  
+- 🚀 React Router for seamless page navigation  
+- 🎠 Swiper.js carousel for a beautiful hero slider  
+- 📱 Fully responsive UI with Tailwind CSS  
+- 💬 Toast notifications for user feedback  
+- 🧠 Data fetching simulated with custom `fetchToys()` function  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 NPM Packages Used
+| Package | Purpose |
+|----------|----------|
+| **react-router-dom** | Page navigation and dynamic routes |
+| **react-helmet-async** | Set page titles dynamically |
+| **react-toastify** | Display toast notifications |
+| **swiper** | Create image slider on homepage |
+| **tailwindcss** | Utility-first CSS framework for styling |
+| **react-icons** | For colorful, easy-to-use icons |
+
+---
+
+## ⚙️ How to Run Locally
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/toytopia.git
+   cd toytopia
