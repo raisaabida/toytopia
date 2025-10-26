@@ -6,14 +6,13 @@ The project demonstrates core React concepts, including routing, components, hoo
 
 ---
 
-## 🌐 Live URL
+##  Live URL
 🔗 [https://toytopia.surge.sh](https://toytopia.surge.sh)
 
-*(Replace with your actual Surge deployment link)*
 
----
 
-## ✨ Key Features
+
+ ## Key Features
 - 🧩 Dynamic toy cards loaded from a JSON file  
 - 🚀 React Router for seamless page navigation  
 - 🎠 Swiper.js carousel for a beautiful hero slider  
