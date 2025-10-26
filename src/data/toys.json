@@ -1,0 +1,74 @@
+[
+  {
+    "toyId": 1,
+    "toyName": "Lego Classic Bricks",
+    "sellerName": "Toys R Us Local",
+    "sellerEmail": "contact@toysruslocal.com",
+    "price": 49.99,
+    "rating": 4.7,
+    "availableQuantity": 75,
+    "description": "A timeless set of colorful Lego bricks that encourages creativity and problem-solving.",
+    "pictureURL": "https://plus.unsplash.com/premium_photo-1661558951515-47f7706fd9c6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "subCategory": "Building Blocks"
+  },
+  {
+    "toyId": 2,
+    "toyName": "Cuddly Teddy Bear",
+    "sellerName": "Cozy Toys",
+    "sellerEmail": "info@cozytoys.com",
+    "price": 24.5,
+    "rating": 4.5,
+    "availableQuantity": 120,
+    "description": "Soft and huggable teddy bear perfect for bedtime.",
+    "pictureURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEjhAZ26VoM-Ki6cQ3SXYlBrHCAgcd_GQaog&s",
+    "subCategory": "Soft Toys"
+  },
+  {
+    "toyId": 3,
+    "toyName": "Puzzle Adventure",
+    "sellerName": "Brainy Kids",
+    "sellerEmail": "hello@brainykids.com",
+    "price": 15.0,
+    "rating": 4.3,
+    "availableQuantity": 50,
+    "description": "A colorful jigsaw puzzle for ages 5+.",
+    "pictureURL": "https://plus.unsplash.com/premium_photo-1664110691125-e89512988baf?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "subCategory": "Puzzles"
+  },
+  {
+    "toyId": 4,
+    "toyName": "Racing Car Set",
+    "sellerName": "Speedy Toys",
+    "sellerEmail": "speedy@shop.com",
+    "price": 35.99,
+    "rating": 4.6,
+    "availableQuantity": 22,
+    "description": "Die-cast racing car set with tracks.",
+    "pictureURL": "https://images.unsplash.com/photo-1613536491198-a0afa1916b3b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=686",
+    "subCategory": "Vehicles"
+  },
+  {
+    "toyId": 5,
+    "toyName": "Musical Piano Toy",
+    "sellerName": "Melody Toys",
+    "sellerEmail": "melody@toys.com",
+    "price": 29.99,
+    "rating": 4.4,
+    "availableQuantity": 40,
+    "description": "Introduce music with this colorful mini-piano.",
+    "pictureURL": "https://plus.unsplash.com/premium_photo-1681912322673-a3d6b4da7e97?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+    "subCategory": "Music"
+  },
+  {
+    "toyId": 6,
+    "toyName": "Art & Craft Kit",
+    "sellerName": "ColorBox",
+    "sellerEmail": "contact@colorbox.com",
+    "price": 19.5,
+    "rating": 4.8,
+    "availableQuantity": 88,
+    "description": "Everything kids need to create colorful masterpieces.",
+    "pictureURL": "https://images.unsplash.com/photo-1609881532802-493ca789f868?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "subCategory": "Arts & Crafts"
+  }
+]
