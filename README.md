@@ -31,8 +31,4 @@ The project demonstrates core React concepts, including routing, components, hoo
 
 
 
-##  How to Run Locally
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/toytopia.git
-   cd toytopia
+
