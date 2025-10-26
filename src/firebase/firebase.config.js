@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
+
 const firebaseConfig = {
   apiKey: "AIzaSyBN3pPdlzzEDIFKiyHUzbUUJv6aaJ6ucuc",
   authDomain: "toytopia-raisa-001.firebaseapp.com",
@@ -13,7 +13,7 @@ const firebaseConfig = {
   appId: "1:1016367142816:web:34e2ca2f7d37eac24476c5"
 };
 
-// Initialize Firebase
+
 const app = initializeApp(firebaseConfig);
 
 export default app;
