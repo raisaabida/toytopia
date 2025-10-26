@@ -27,6 +27,7 @@ export default function Navbar() {
           <NavLink to="/extra" className={({ isActive }) => (isActive ? "text-indigo-700 font-semibold" : "")}>
             My Try Requests
           </NavLink>
+          
 
           {user ? (
             <div className="flex items-center gap-2">
