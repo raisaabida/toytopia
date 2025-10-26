@@ -10,13 +10,11 @@ The project demonstrates core React concepts, including routing, components, hoo
 🔗 [https://toytopia.surge.sh](https://toytopia.surge.sh)
 
 
-
-
- ## Key Features
-- 🧩 Dynamic toy cards loaded from a JSON file  
-- 🚀 React Router for seamless page navigation  
-- 🎠 Swiper.js carousel for a beautiful hero slider  
-- 📱 Fully responsive UI with Tailwind CSS  
+## Key Features
+-  Dynamic toy cards loaded from a JSON file  
+-  React Router for seamless page navigation  
+-  Swiper.js carousel for a beautiful hero slider  
+-  Fully responsive UI with Tailwind CSS  
 - 💬 Toast notifications for user feedback  
 - 🧠 Data fetching simulated with custom `fetchToys()` function  
 
