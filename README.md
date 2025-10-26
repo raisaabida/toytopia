@@ -21,8 +21,7 @@ The project demonstrates core React concepts, including routing, components, hoo
 
 
 ##  NPM Packages Used
-| Package | Purpose |
-|
+
 | **react-router-dom** | Page navigation and dynamic routes |
 | **react-helmet-async** | Set page titles dynamically |
 | **react-toastify** | Display toast notifications |
@@ -30,9 +29,9 @@ The project demonstrates core React concepts, including routing, components, hoo
 | **tailwindcss** | Utility-first CSS framework for styling |
 | **react-icons** | For colorful, easy-to-use icons |
 
----
 
-## ⚙️ How to Run Locally
+
+##  How to Run Locally
 1. Clone the repository  
    ```bash
    git clone https://github.com/yourusername/toytopia.git
